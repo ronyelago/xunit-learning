@@ -1,0 +1,12 @@
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\bin\Debug\net5.0\CursoOnLine.Dominio.deps.json
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\bin\Debug\net5.0\CursoOnLine.Dominio.dll
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\bin\Debug\net5.0\CursoOnLine.Dominio.pdb
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.csproj.AssemblyReference.cache
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.AssemblyInfoInputs.cache
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.AssemblyInfo.cs
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.csproj.CoreCompileInputs.cache
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.dll
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\refint\CursoOnLine.Dominio.dll
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\CursoOnLine.Dominio.pdb
+C:\Projects\CursoOnLine\src\CursoOnLine.Dominio\obj\Debug\net5.0\ref\CursoOnLine.Dominio.dll
